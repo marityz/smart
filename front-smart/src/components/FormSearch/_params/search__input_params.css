@@ -1,0 +1,17 @@
+.search__input_params{
+    border-radius: 5px;
+    min-height: 20px;
+    background-color: #f0f0f0;
+    outline: none;
+    font-size: 1em;
+    width: 100%;
+
+}
+
+
+.search__input_params:active,
+.search__input_params:hover,
+.search__input_params:focus {
+    outline: none;
+    background: #f0f0f0;
+}

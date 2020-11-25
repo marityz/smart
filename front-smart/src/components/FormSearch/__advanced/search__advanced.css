@@ -1,0 +1,14 @@
+.search__advanced{
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto 0 auto;
+    width: 60%;
+
+}
+
+@media screen and (max-width: 759px) {
+    .search__advanced {
+        width: 90%;
+    }
+}
+

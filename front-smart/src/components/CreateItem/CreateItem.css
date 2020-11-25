@@ -1,0 +1,20 @@
+@import url('__form/create-item__form.css');
+@import url('__param/create-item__param.css');
+@import url('__title/create-item__title.css');
+@import url('__button/create-item__button.css');
+@import url('__input/create-item__input.css');
+@import url('__result/create-item__result.css');
+
+
+
+.create-item{
+    min-height: 100vh;
+    max-height: max-content;
+    background-color: #b1b1b1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+

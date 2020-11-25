@@ -1,0 +1,14 @@
+.create-item__input{
+    min-height: 20px;
+    border-radius: 5px;
+    font-size: 1em;
+
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    background-color: transparent;
+    outline: none;
+}

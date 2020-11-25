@@ -1,0 +1,28 @@
+
+.result__item {
+    position: relative;
+    margin-bottom: 64px;
+    max-height: max-content;
+    justify-content: center;
+    justify-items: center;
+    box-sizing: border-box;
+    width: 100%;
+
+}
+
+
+@media screen  and (min-width: 760px) and (max-width: 1023px) {
+    .result__item {
+        grid-gap: 8px 8px;
+        margin-bottom: 22px;
+    }
+}
+
+
+@media screen and (max-width: 759px) {
+    .result__item {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        grid-gap: 10px 10px;
+        margin-bottom: 15px;
+    }
+}

@@ -1,0 +1,15 @@
+@import url('__img/item__img.css');
+@import url('__content/item__content.css');
+@import url('__text/item__text.css');
+@import url('__title/item__title.css');
+@import url('__close/item__close.css');
+
+.item{
+    border: #cccccc solid 1px;
+    padding: 5px;
+    width: 100%;
+    display: flex;
+    position: relative;
+    margin-bottom: 20px;
+    min-height: 170px;
+}

@@ -1,0 +1,10 @@
+.search__img{
+    margin: 70px auto 0px auto;
+    width: 30px;
+    height: 20px;
+    border: #888888 solid 2px;
+    padding: 10px 50px;
+    border-radius: 100px;
+    background-color: #767676;
+    box-shadow: 0px 5px 15px rgba(14, 26, 57, 0.2);;
+}

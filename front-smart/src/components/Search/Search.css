@@ -1,0 +1,11 @@
+@import url('__form/advanced-search__form.css');
+
+.section-search{
+    min-height: 100vh;
+    max-height: max-content;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
