@@ -68,7 +68,7 @@
   POST
        http://localhost:3001/api/item
   
-  Тело запроса(ISON): 
+  Тело запроса(JSON): 
   
   { "description" :"DESCRIPTION",
                            "name":"NAME",
